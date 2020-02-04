@@ -14,3 +14,7 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+// Revisar estos dos ejemplos para empezar
+// https://stackblitz.com/edit/dynamic-components-angular?file=app%2Fmodal.component.ts
+// https://stackblitz.com/edit/dynamic-component
